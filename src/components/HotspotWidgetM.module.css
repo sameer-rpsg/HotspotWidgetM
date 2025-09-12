@@ -382,8 +382,22 @@
     opacity: 0;
   }
 }
+.MhotspotBtn{
+  margin-top:1rem;
+   background-color:transparent;
+    border:1px solid #7a6047;
+     padding:0.5rem 1rem; 
+     border-radius:999px; 
+     cursor:pointer;
+     transition: all .3s ease;
+     color: #7a6047;
+}
 
 @media screen and (min-width: 992px) {
+  .MhotspotBtn:hover{
+background-color: #7a6047;
+     color: #fff;
+}
     .section_layout{
           height: 100vh;
     }

@@ -211,7 +211,7 @@ const HotspotWidgetM = () => {
                             <p className={styles.text_size_tiny}>
                               {service.description}
                             </p>
-                            <button style={{marginTop:"1rem", backgroundColor:"transparent", border:"1px solid #000", padding:"0.5rem 1rem", borderRadius:"999px", cursor:"pointer"}}>Buy</button>
+                            <button className={styles.MhotspotBtn}>Read more</button>
                           </div>
                         </div>
                       );
