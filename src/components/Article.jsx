@@ -9,22 +9,32 @@ const Article = () => {
       <div className="story-container" style={{ position: "relative" }}>
         <div className="Stories_wrapper" style={{ padding: "4rem 0 0 0" }}>
           <div className="container">
+            <div className="ad-flex-all">
+              <div
+                id="div-gpt-ad-stories-mobile-top-68c7d23ebf508746ddc251d7}"
+                data-cy="Ad"
+                className="ad-text"
+              />
+            </div>
             <div className="story-top">
               <div className="breadcrumb">
                 <p style={{ fontWeight: 300 }}>
                   <a href="/fashion-beauty">Fashion &amp; Beauty</a>
                   <span>&nbsp; &gt; &nbsp;</span>
-                  <a href="/fashion-beauty/shopping">Shopping</a>
+                  <a href="/fashion-beauty/skincare">Skincare</a>
                 </p>
               </div>
               <div className="contr-fluid">
                 <div className="contr-fluid_inner">
                   <h1>
-                    Dear bridesmaids, You Might Want To Invest In A Corset
-                    Outfit This Wedding Season
+                    5 South Indian Beauty Secrets for Natural Glow &amp; Hair
+                    Care
                   </h1>
                   <div className="para-ButFlex">
-                    <p>Bonus? They flatter every body type!</p>
+                    <p>
+                      These age-old rituals are still shaping some of the most
+                      admired beauty routines today…
+                    </p>
                   </div>
                 </div>
                 <div className="detailed-media_info">
@@ -32,17 +42,17 @@ const Article = () => {
                     <div className="card-meta_meta_inner">
                       <div className="card-meta_item">
                         <span className="card-meta_label text-7">
-                          Sep 5, 2025
+                          Sep 16, 2025
                         </span>
                       </div>
                       <div className="card-meta_item">
                         <span className="card-meta_label text-7">
-                          {/* By */}
+                          By{/* */}{" "}
                           <a
                             className="author-link"
-                            href="/author/palak-valecha"
+                            href="/author/mirza-shaina-beg"
                           >
-                            Palak Valecha
+                            Mirza Shaina Beg
                           </a>
                         </span>
                       </div>
@@ -59,7 +69,7 @@ const Article = () => {
                             width="1em"
                             xmlns="http://www.w3.org/2000/svg"
                           >
-                            <path d="M383.822 344.427c-16.045 0-31.024 5.326-41.721 15.979l-152.957-88.42c1.071-5.328 2.142-9.593 2.142-14.919 0-5.328-1.071-9.593-2.142-14.919l150.826-87.35c11.762 10.653 26.741 17.041 43.852 17.041 35.295 0 64.178-28.766 64.178-63.92C448 72.767 419.117 44 383.822 44c-35.297 0-64.179 28.767-64.179 63.92 0 5.327 1.065 9.593 2.142 14.919l-150.821 87.35c-11.767-10.654-26.741-17.041-43.856-17.041-35.296 0-63.108 28.766-63.108 63.92 0 35.153 28.877 63.92 64.178 63.92 17.115 0 32.089-6.389 43.856-17.042l151.891 88.421c-1.076 4.255-2.141 8.521-2.141 13.847 0 34.094 27.806 61.787 62.037 61.787 34.229 0 62.036-27.693 62.036-61.787.001-34.094-27.805-61.787-62.035-61.787z"></path>
+                            <path d="M383.822 344.427c-16.045 0-31.024 5.326-41.721 15.979l-152.957-88.42c1.071-5.328 2.142-9.593 2.142-14.919 0-5.328-1.071-9.593-2.142-14.919l150.826-87.35c11.762 10.653 26.741 17.041 43.852 17.041 35.295 0 64.178-28.766 64.178-63.92C448 72.767 419.117 44 383.822 44c-35.297 0-64.179 28.767-64.179 63.92 0 5.327 1.065 9.593 2.142 14.919l-150.821 87.35c-11.767-10.654-26.741-17.041-43.856-17.041-35.296 0-63.108 28.766-63.108 63.92 0 35.153 28.877 63.92 64.178 63.92 17.115 0 32.089-6.389 43.856-17.042l151.891 88.421c-1.076 4.255-2.141 8.521-2.141 13.847 0 34.094 27.806 61.787 62.037 61.787 34.229 0 62.036-27.693 62.036-61.787.001-34.094-27.805-61.787-62.035-61.787z" />
                           </svg>
                           <span>Share</span>
                         </button>
@@ -72,45 +82,61 @@ const Article = () => {
             <div className="Stories_wrapper_inner">
               <div className="ad-flex-all">
                 <div
-                  id="div-gpt-ad-stories-top-68b96f77b90c36af766adda1"
+                  id="div-gpt-ad-stories-top-68c7d23ebf508746ddc251d7"
                   data-cy="Ad"
-                  data-google-query-id="CMiA9rbOyI8DFV-lZgIdzRM9Ig"
+                  className="ad-text"
+                  data-google-query-id=""
                   style={{ margin: "30px auto" }}
                 >
                   <div
-                    id="google_ads_iframe_/23290324739/Manifest-Mobile-Top-300_0__container__"
-                    style={{ border: "0pt none", width: 300, height: 0 }}
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_0__container__"
+                    style={{ border: "0pt none", width: 970, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_3__container__"
+                    style={{ border: "0pt none", width: 970, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_6__container__"
+                    style={{ border: "0pt none", width: 970, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_9__container__"
+                    style={{ border: "0pt none", width: 970, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-TOP-970_12__container__"
+                    style={{ border: "0pt none", width: 970, height: 0 }}
                   />
                 </div>
               </div>
               <div className="big-container-blog">
                 <div className="blog-img-container gradient_remove_bg">
                   <img
-                    alt="L-R: Ananya Panday, Bhumi Pednekar In A Corset Outfit"
+                    alt="South Indian Beauty Hacks That Are a Must Try "
                     loading="lazy"
                     decoding="async"
                     data-nimg="fill"
-                    //   style={{
-                    //     position: "absolute",
-                    //     height: "100%",
-                    //     width: "100%",
-                    //     left: 0,
-                    //     top: 0,
-                    //     right: 0,
-                    //     bottom: 0,
-                    //     color: "transparent"
-                    //   }}
+                    style={{
+                      position: "absolute",
+                      height: "100%",
+                      width: "100%",
+                      left: 0,
+                      top: 0,
+                      right: 0,
+                      bottom: 0,
+                      color: "transparent",
+                    }}
                     sizes="100vw"
-                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.437Z-Untitled%2520design%2520-%25202025-09-04T154543.191.jpg&w=750&q=75"
+                    src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-09-15T09%253A18%253A20.565Z-manifest%2520%25284%2529.jpg&w=1920&q=75"
                   />
                 </div>
                 <div className="Stories_caption_wrapper">
                   <span className="Stories_caption">
-                    L-R: Ananya Panday, Bhumi Pednekar
+                    Try these timeless and natural beauty hacks for glowing,
+                    healthy skin and hair.{" "}
                   </span>
-                  <span className="Stories_courtesy">
-                    L-R: Instagram/Ananya Panday, Instagram/Bhumi Pednekar
-                  </span>
+                  <span className="Stories_courtesy">Getty Images</span>
                 </div>
               </div>
               <div className="StoriesInfo_wrapper">
@@ -120,51 +146,746 @@ const Article = () => {
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            If you are going to invest in one outfit this
-                            wedding season, let it be something with a{" "}
+                            In India, beauty rituals are sacred and have been
+                            passed down through generations. These rituals
+                            celebrate self-care and{" "}
                           </span>
                           <a
                             target="_blank"
-                            rel="noopener noreferrer"
+                            rel="noopener noreferrer nofollow"
                             style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/tag/corset"
+                            href="https://www.manifestmagazine.in/fashion-beauty/skincare/quick-skincare-fixes-that-make-your-face-look-fresh-and-awake"
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset
-                            </span>
-                          </a>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            . Doesn’t matter if it is a{" "}
-                          </span>
-                          <a
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/fashion-beauty/celebrity-style/get-the-look-bhumi-pednekar-cobalt-blue-corset-sari"
-                          >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              corset saree
+                              skincare
                             </span>
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
                             {" "}
-                            or a corset and a draped skirt but hop onto the
-                            corset bandwagon this wedding season. Because
-                            corsets are huge right now—from runways to celebrity
-                            closets, they are all the rage. The biggest{" "}
+                            for us was not born in the laboratories but is in
+                            nature. They come straight from the kitchen, your
+                            garden, or the coconut trees that are lined next to
+                            the coast, from{" "}
+                          </span>
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            style={{ color: "rgb(0, 0, 0)" }}
+                            href="https://www.manifestmagazine.in/fashion-beauty/celebrity-style/best-celebrity-looks-from-the-umrao-jaan-screening"
+                          >
+                            <span style={{ color: "rgb(0, 0, 0)" }}>Rekha</span>
+                          </a>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>’s </span>
+                          <span
+                            style={{
+                              color: "rgb(66, 66, 66)",
+                              fontStyle: "italic",
+                            }}
+                          >
+                            chandan lape
+                          </span>
+                          <span style={{ color: "rgb(66, 66, 66)" }}>
+                            {" "}
+                            and choosing green gram flour instead of soap,
+                            to&nbsp; Sai Pallavi’s admitting she drinks 2 litres
+                            of coconut water every day.{" "}
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            South Indian actresses have quietly leaned on these
+                            very traditions to keep skin and hair healthy.{" "}
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            So, if you are looking for natural south indian{" "}
                           </span>
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
                             style={{ color: "rgb(0, 0, 0)" }}
-                            href="https://www.manifestmagazine.in/fashion-beauty/features/bridal-wear-trend-report-hyundai-india-couture-week-2025"
+                            href="https://www.manifestmagazine.in/fashion-beauty/fashion-beauty/viral-dry-shampoo-water-hack"
                           >
                             <span style={{ color: "rgb(0, 0, 0)" }}>
-                              trend spotted at the India Couture Week 2025
+                              beauty hacks
                             </span>
                           </a>
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            ? Also, corsets!
+                            , here are five rituals that continue to survive the
+                            test of time.{" "}
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span>
+                            Try these timeless and natural beauty hacks for
+                            glowing, healthy skin and hair.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        width: "100%",
+                      }}
+                    >
+                      <div className="related-post-wrapper">
+                        <h2 className="related-post-heading">
+                          You may also like
+                        </h2>
+                        <div className="grid" style={{ width: "100%" }}>
+                          <a
+                            className="related-post-card"
+                            target="_blank"
+                            href="/fashion-beauty/features/night-time-rituals-to-pamper-your-skin-and-calm-your-mind-before-your-wedding"
+                          >
+                            <div className="related-post-image">
+                              <img
+                                alt="Alia Bhatt"
+                                loading="lazy"
+                                decoding="async"
+                                data-nimg="fill"
+                                className="imgcover"
+                                sizes="100vw"
+                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-08-27T09%253A06%253A42.488Z-image.jpg&w=1920&q=75"
+                                style={{
+                                  position: "absolute",
+                                  height: "100%",
+                                  width: "100%",
+                                  inset: 0,
+                                  objectFit: "cover",
+                                  color: "transparent",
+                                }}
+                              />
+                            </div>
+                            <div
+                              style={{
+                                width: "100%",
+                                display: "flex",
+                                flexDirection: "column",
+                                gap: 5,
+                              }}
+                            >
+                              <strong>Features</strong>
+                              <h3 className="card-title mb-0">
+                                Night Time Rituals to Pamper Your Skin and Calm
+                                Your Mind Before Your Wedding
+                              </h3>
+                              <span className="author"> Mirza Shaina Beg</span>
+                            </div>
+                          </a>
+                          <a
+                            className="related-post-card"
+                            target="_blank"
+                            href="/fashion-beauty/skincare/quick-skincare-fixes-that-make-your-face-look-fresh-and-awake"
+                          >
+                            <div className="related-post-image">
+                              <img
+                                alt="Skincare Fixes for an Instant Glow-Up"
+                                loading="lazy"
+                                decoding="async"
+                                data-nimg="fill"
+                                className="imgcover"
+                                sizes="100vw"
+                               
+                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-08-25T09%253A18%253A32.944Z-image.jpg&w=1920&q=75"
+                                style={{
+                                  position: "absolute",
+                                  height: "100%",
+                                  width: "100%",
+                                  inset: 0,
+                                  objectFit: "cover",
+                                  color: "transparent",
+                                }}
+                              />
+                            </div>
+                            <div
+                              style={{
+                                width: "100%",
+                                display: "flex",
+                                flexDirection: "column",
+                                gap: 5,
+                              }}
+                            >
+                              <strong>Skincare</strong>
+                              <h3 className="card-title mb-0">
+                                Quick Skincare Fixes That Make Your Face Look
+                                Fresh and Awake
+                              </h3>
+                              <span className="author"> Mirza Shaina Beg</span>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <h2
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            South Indian Beauty Hacks That Are a Must Try
+                          </span>
+                          <span
+                            style={{
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
+                            }}
+                          >
+                            &nbsp;
+                          </span>
+                        </h2>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <h3
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Curry Leaves and Coconut Oil Hair Tonic
+                          </span>
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        width: "100%",
+                      }}
+                    >
+                      <div
+                        className="media-grid_wrapper"
+                        style={{ width: "100%" }}
+                      >
+                        <div className="media-grid_wrapper_inner-full-width">
+                          <img
+                            alt="Curry Leaves and Coconut Oil Hair Tonic"
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            
+                            src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T08%253A54%253A12.728Z-GettyImages-1053938946.jpg&w=1920&q=75"
+                          />
+                          <div className="Stories_caption_wrapper">
+                            <span className="Stories_caption" />
+                            <span className="Stories_courtesy">
+                              Getty Images
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            If there is one thing that unites almost every South
+                            Indian beauty routine, it’s coconut oil. Even{" "}
+                          </span>
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "rgb(0, 0, 0)" }}
+                            href="https://www.manifestmagazine.in/fashion-beauty/celebrity-style/janhvi-kapoor-pays-homage-to-her-south-indian-roots-in-a-manish-malhotra-lehenga"
+                          >
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                              Janhvi Kapoor
+                            </span>
+                          </a>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            swears by her champi routine, which has been passed
+                            down to her by her mother, Sridevi.&nbsp;Weekly oil
+                            massages also double up as long-term hair care.
+                            Infusing the oil with curry leaves turns it into a
+                            hair tonic that helps prevent greying and
+                            strengthens strands. Aishwarya Rai, too, has
+                            credited her healthy hair to coconut oiling
+                            traditions from her Mangalorean roots.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span
+                            style={{
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
+                            }}
+                          >
+                            How to try it:
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            Heat coconut oil, add fresh curry leaves until
+                            crisp, strain, and massage into scalp before
+                            shampoo.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="ad-flex-all">
+                      <div
+                        id="div-gpt-ad-stories-middle-10"
+                        data-cy="Ad"
+                        className="ad-text"
+                        data-google-query-id=""
+                        style={{ margin: "30px auto" }}
+                      >
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_0__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_6__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_12__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_18__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_24__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <HotspotWidgetM/>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        width: "100%",
+                      }}
+                    >
+                      <div className="related-post-wrapper">
+                        <h2 className="related-post-heading">
+                          You may also like
+                        </h2>
+                        <div className="row" style={{ width: "100%" }}>
+                          <a
+                            className="related-post-card"
+                            target="_blank"
+                            href="/fashion-beauty/hair/4-diy-hair-masks-bollywood-celebs-actually-swear-by"
+                          >
+                            <div className="related-post-image">
+                              <img
+                                alt="Janhvi Kapoor"
+                                loading="lazy"
+                                decoding="async"
+                                data-nimg="fill"
+                                className="imgcover"
+                                sizes="100vw"
+                                
+                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-08-23T14%253A22%253A46.010Z-image.jpg&w=1920&q=75"
+                                style={{
+                                  position: "absolute",
+                                  height: "100%",
+                                  width: "100%",
+                                  inset: 0,
+                                  objectFit: "cover",
+                                  color: "transparent",
+                                }}
+                              />
+                            </div>
+                            <div
+                              style={{
+                                width: "100%",
+                                display: "flex",
+                                flexDirection: "column",
+                                gap: 5,
+                              }}
+                            >
+                              <strong>Hair</strong>
+                              <h3 className="card-title mb-0">
+                                {" "}
+                                4 DIY Hair Masks Bollywood Celebs Actually Swear
+                                By
+                              </h3>
+                              <span className="author"> Mirza Shaina Beg</span>
+                            </div>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <h3
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Tamarind Pulp For Skin Exfoliation
+                          </span>
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            In Tamil and Telugu households, tamarind is as
+                            likely to be found in a{" "}
+                          </span>
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            style={{ color: "rgb(0, 0, 0)" }}
+                            href="https://www.manifestmagazine.in/fashion-beauty/make-up/namrata-sonis-guide-to-simplifying-your-make-up-routine"
+                          >
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                              beauty routine
+                            </span>
+                          </a>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            as in a pot of rasam. Its pulp is rich in natural
+                            acids, making it an effective way to exfoliate and
+                            even out tanned skin. For sensitive skin, it may
+                            cause irritation. It is crucial to perform a patch
+                            test on a small area before applying it to the
+                            face.&nbsp;
+                          </span>
+                          <br />
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span
+                            style={{
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
+                            }}
+                          >
+                            How to try it:
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            Soak tamarind pulp in warm water, strain, and mix
+                            with honey or gram flour. Apply for 10 minutes, then
+                            rinse.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <h3
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Hibiscus Flower &amp; Leaf Hair Mask
+                          </span>
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            The petals and leaves of the plant, when ground into
+                            a paste, are known to strengthen roots, reduce
+                            dandruff, and leave hair feeling soft. Kerala brides
+                            often use it before weddings, and stars like Sai
+                            Pallavi have mentioned sticking to simple, natural{" "}
+                          </span>
+                          <a
+                            target="_blank"
+                            rel="noopener noreferrer nofollow"
+                            style={{ color: "rgb(0, 0, 0)" }}
+                            href="https://www.manifestmagazine.in/fashion-beauty/hair/4-diy-hair-masks-bollywood-celebs-actually-swear-by"
+                          >
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                              hair care
+                            </span>
+                          </a>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            instead of chemical-heavy products.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span
+                            style={{
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
+                            }}
+                          >
+                            How to try it:
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            Grind fresh petals and leaves into a smooth paste,
+                            apply from scalp to tips, and wash after 30 minutes.
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <h3
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Rice Water Rinse
+                          </span>
+                        </h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="ad-flex-all">
+                      <div
+                        id="div-gpt-ad-stories-middle-21"
+                        data-cy="Ad"
+                        className="ad-text"
+                        data-google-query-id=""
+                        style={{ margin: "30px auto" }}
+                      >
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_1__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_7__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_13__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_19__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-Middle-300_25__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div
+                      style={{
+                        display: "flex",
+                        justifyContent: "center",
+                        width: "100%",
+                      }}
+                    >
+                      <div
+                        className="media-grid_wrapper"
+                        style={{ width: "100%" }}
+                      >
+                        <div className="media-grid_wrapper_inner-full-width">
+                          <img
+                            alt="Rice Water Rinse for Hair Care"
+                            loading="lazy"
+                            width={700}
+                            height={475}
+                            decoding="async"
+                            data-nimg={1}
+                            style={{
+                              color: "transparent",
+                              width: "100%",
+                              height: "auto",
+                            }}
+                            sizes="100vw"
+                            
+                            src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-15T08%253A59%253A02.336Z-GettyImages-974657064.jpg&w=1920&q=75"
+                          />
+                          <div className="Stories_caption_wrapper">
+                            <span className="Stories_caption" />
+                            <span className="Stories_courtesy">
+                              Getty Images
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            Ask anyone in a South Indian household what happens
+                            to the water left after rinsing rice, and the answer
+                            might surprise you: it’s saved for hair. This
+                            fermented water is packed with amino acids and
+                            vitamins that smooth the hair shaft and reduce
+                            frizz. It’s a tradition that remains popular among
+                            brides-to-be and women looking for glossy, strong
+                            hair.&nbsp;
+                          </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span
+                            style={{
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
+                            }}
+                          >
+                            How to try it:
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            Collect rice water, let it ferment overnight, and
+                            pour it as a final rinse after shampooing. Add a
+                            slice of orange to help with the odour.
                           </span>
                           <br />
                         </p>
@@ -187,17 +908,18 @@ const Article = () => {
                           <a
                             className="related-post-card"
                             target="_blank"
-                            href="/fashion-beauty/features/corsets-breastplates-are-the-new-blouse"
+                            href="/fashion-beauty/hair/okra-water-for-glossy-hair-trend"
                           >
                             <div className="related-post-image">
                               <img
-                                alt="Suneet Varma breastplates"
+                                alt="Okra Water, Hair Glossing"
                                 loading="lazy"
                                 decoding="async"
                                 data-nimg="fill"
                                 className="imgcover"
                                 sizes="100vw"
-                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Farticle%2F2025-06-10T08%253A00%253A51.991Z-image.jpg&w=3840&q=75"
+                                
+                                src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2F2024%2F10%2Fhair-gloss2.jpg&w=1920&q=75"
                                 style={{
                                   position: "absolute",
                                   height: "100%",
@@ -216,12 +938,12 @@ const Article = () => {
                                 gap: 5,
                               }}
                             >
-                              <strong>Features</strong>
+                              <strong>Hair</strong>
                               <h3 className="card-title mb-0">
-                                Form Flattering Corsets And Breastplates Are The
-                                New Blouses
+                                I Tried Okra Water To Make My Hair Glossier And
+                                Here’s What Happened
                               </h3>
-                              <span className="author"> Team Manifest</span>
+                              <span className="author"> Harshita Singh</span>
                             </div>
                           </a>
                         </div>
@@ -231,56 +953,17 @@ const Article = () => {
                   <div className="StoriesInfo_left_innercntr-full-width">
                     <div className="">
                       <div className="rich-text_wrapper">
-                        <p style={{ textAlign: "left" }}>
+                        <h3
+                          style={{
+                            textAlign: "left",
+                            lineHeight: "1.5rem",
+                            margin: "25px 0px 10px 0px",
+                          }}
+                        >
                           <span style={{ color: "rgb(0, 0, 0)" }}>
-                            With meticulous boning that accentuates a woman’s
-                            natural curves and makes the garment hug the body
-                            like a glove, no other piece of clothing can match
-                            the complex artistry of the corset. Not to mention
-                            they flatter every body type!
+                            Turmeric and Curd Glow Pack
                           </span>
-                          <br />
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="StoriesInfo_left_innercntr-full-width">
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                      }}
-                    >
-                      <div
-                        className="media-grid_wrapper"
-                        style={{ width: "100%" }}
-                      >
-                        <div className="media-grid_wrapper_inner-full-width">
-                          <img
-                            alt="Janhvi Kapoor in a corset"
-                            loading="lazy"
-                            width={700}
-                            height={475}
-                            decoding="async"
-                            data-nimg={1}
-                            style={{
-                              color: "transparent",
-                              width: "100%",
-                              height: "auto",
-                            }}
-                            sizes="100vw"
-                            src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.431Z-SnapInsta.to_470563398_18474385063006330_189191875417241461_n.jpg&w=3840&q=75"
-                          />
-                          <div className="Stories_caption_wrapper">
-                            <span className="Stories_caption">
-                              Janhvi Kapoor in a corset
-                            </span>
-                            <span className="Stories_courtesy">
-                              Instagram/Janhvi Kapoor
-                            </span>
-                          </div>
-                        </div>
+                        </h3>
                       </div>
                     </div>
                   </div>
@@ -288,711 +971,261 @@ const Article = () => {
                     <div className="">
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
-                          <span style={{ fontStyle: "italic" }}>Buy it </span>
+                          <br />
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="StoriesInfo_left_innercntr-full-width">
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            There’s a reason turmeric remains a bridal essential
+                            and{" "}
+                          </span>
                           <a
                             target="_blank"
-                            rel="noreferrer, nofollow"
-                            style={{ fontWeight: "bold", fontStyle: "italic" }}
-                            href="https://jayantireddy.com/collections/lehenga-set/products/beige-gold-lehenga-with-corset"
+                            rel="noopener noreferrer nofollow"
+                            style={{ color: "rgb(0, 0, 0)" }}
+                            href="https://www.manifestmagazine.in/sanskaar/rituals-traditional/decoding-the-colourful-haldi-ceremony-in-indian-weddings"
                           >
-                            <span
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                            >
-                              here
+                            <span style={{ color: "rgb(0, 0, 0)" }}>
+                              ceremonial event
                             </span>
                           </a>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            before the wedding across the country. Mixed with
+                            cooling curd, it makes a soothing mask that
+                            brightens and calms skin. Unlike quick-fix
+                            treatments, this one works best as a weekly ritual.
+                          </span>
                           <br />
                         </p>
                       </div>
                     </div>
                   </div>
-                  <br />
-                  <HotspotWidgetM />
-
                   <div className="StoriesInfo_left_innercntr-full-width">
                     <div className="">
                       <div className="rich-text_wrapper">
                         <p style={{ textAlign: "left" }}>
-                          <span style={{ color: "rgb(0, 0, 0)" }}>
-                            (Not so) Fun Fact: Back in ancient and even
-                            not-so-distant times, corsets weren’t just a fashion
-                            statement—they were a societal expectation. These
-                            structured garments were designed to force women’s
-                            bodies into a specific hourglass shape, often
-                            involving extreme waist cinching to achieve an
-                            unnaturally small waistline. This idealized
-                            silhouette was considered the epitome of femininity
-                            and beauty, driven largely by patriarchal standards
-                            that dictated how women should look and behave.
-                            Unfortunately, this often came at a serious cost.
-                            Prolonged use of tightly laced corsets led to
-                            numerous health problems, including difficulty
-                            breathing, organ compression, and long-term damage
-                            to posture and internal structures. For many women,
-                            wearing a corset was not a matter of choice or
-                            fashion, but rather a requirement to fit in, get
-                            married, or even be seen as respectable in society.
-                            It’s a sobering reminder of how fashion has
-                            historically been used as a tool to control and
-                            confine women under the guise of elegance.
-                          </span>
-                          <b />
+                          <br />
                         </p>
-                        <b></b>
                       </div>
-                      <b></b>
                     </div>
                   </div>
                   <div className="StoriesInfo_left_innercntr-full-width">
-                    <div
-                      style={{
-                        display: "flex",
-                        justifyContent: "center",
-                        width: "100%",
-                      }}
-                    ></div>
-                    <b></b>
-                  </div>
-                  <b>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              We are fortunate enough to have moved past the
-                              times when corsets were basically a symbol of
-                              patriarchy and can now wear them on our own terms.
-                              So, embrace this beautiful piece of garment this
-                              wedding season, because no matter your style or
-                              body type, there is something for everyone!&nbsp;
-                              Thankfully, times have changed. We are now in an
-                              era where clothing—corsets included—can be chosen
-                              freely, worn on our own terms, and celebrated as a
-                              form of self-expression rather than restriction.
-                              Today, the corset has evolved into a versatile and
-                              empowering garment. It’s no longer just about
-                              shaping the body; it’s about enhancing confidence,
-                              showcasing style, and embracing individuality.
-                              Whether you're into vintage glamour, modern chic,
-                              or bold statements, there's a corset out there
-                              that fits your vibe and body beautifully. So this
-                              wedding season, don’t be afraid to rock a corset
-                              with pride. Whether you’re a guest, part of the
-                              bridal party, or the bride herself, this timeless
-                              piece can be styled in countless ways to reflect
-                              your personality and celebrate your unique form.
-                              Fashion is no longer about conforming—it's about
-                              owning your look and feeling amazing in your skin.
-                              And remember: no matter your shape, size, or
-                              style, there’s a corset out there waiting to make
-                              you feel fabulous.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <h2
+                    <div className="">
+                      <div className="rich-text_wrapper">
+                        <p style={{ textAlign: "left" }}>
+                          <span
                             style={{
-                              textAlign: "left",
-                              lineHeight: "1.38",
-                              margin: "25px 0px 10px 0px",
+                              color: "rgb(0, 0, 0)",
+                              fontWeight: "bold",
                             }}
                           >
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Our Picks For The Most Beautiful Outfits With
-                              Corsets For The Bridesmaids
-                            </span>
-                          </h2>
-                        </div>
+                            How to try it:
+                          </span>
+                          <span style={{ color: "rgb(0, 0, 0)" }}>
+                            {" "}
+                            Blend a pinch of turmeric with two spoons of curd.
+                            Apply for 15 minutes and rinse gently.
+                          </span>
+                          <br />
+                        </p>
                       </div>
                     </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
+                  </div>
+                  <div className="">
+                    <ul className="Readmore_actions">
+                      <li className="Readmore_actions_first-not-button">
+                        <span>READ MORE STORIES ABOUT :</span>
+                      </li>
+                      <div className="Readmore_actions_inner">
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair-care"
+                            >
+                              <span className="button_label">hair care</span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair-oil"
+                            >
+                              <span className="button_label">Hair Oil</span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair-growth"
+                            >
+                              <span className="button_label">hair growth</span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair-treatments"
+                            >
+                              <span className="button_label">
+                                Hair Treatments
+                              </span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/skincare-guide"
+                            >
+                              <span className="button_label">
+                                Skincare Guide
+                              </span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair"
+                            >
+                              <span className="button_label">hair</span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/skin-care"
+                            >
+                              <span className="button_label">Skin Care</span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/hair-care-tips"
+                            >
+                              <span className="button_label">
+                                Hair Care Tips
+                              </span>
+                            </a>
+                          </li>
+                        </ul>
+                        <ul className="card-actions_actions">
+                          <li className="">
+                            <a
+                              className="card-actions_actions_button "
+                              aria-label=""
+                              href="/tag/skin-glow"
+                            >
+                              <span className="button_label">Skin Glow</span>
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </ul>
+                  </div>
+                </div>
+                <div className="StoriesInfo_rightcntr ">
+                  <div className="article-sidebar sticky-post">
+                    <div className="ad-flex-all">
                       <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
+                        id="div-gpt-ad-stories-rhs"
+                        data-cy="Ad"
+                        className="ad-text"
+                        data-google-query-id=""
+                        style={{ margin: "0px auto" }}
                       >
                         <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Chitralekha Corset with Lehenga, Mrunalini Rao"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A24%253A48.656Z-MR__406_6_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Chitralekha Corset with Lehenga, Mrunalini Rao
-                              </span>
-                              <span className="Stories_courtesy">
-                                Mrunalini Rao
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.mrunalinirao.com/products/chitralekha-corset-with-lehenga?srsltid=AfmBOor47DChw9Gxy2bzKkQZ_BQwciOL3f9wobuR_s3OI7QKzDkLFhvw"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This stunning Mrunalini Rao corset lehenga,
-                              adorned with intricate paisley patterns, is
-                              nothing short of a masterpiece. Its vibrant
-                              colors, detailed embroidery, and carefully crafted
-                              silhouette come together to create a look that is
-                              both traditional and refreshingly modern. The
-                              corset-style blouse adds a contemporary edge while
-                              beautifully enhancing the overall elegance of the
-                              outfit. Breathtakingly beautiful and rich in
-                              cultural charm, it’s the perfect choice for a
-                              festive celebration. Whether you're dancing
-                              through your mehendi ceremony or simply soaking in
-                              the joyful vibes, this lehenga is designed to make
-                              a statement and leave a lasting impression.
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/trends-culture/moodboard/best-bollywood-brides-mehndi-designs"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                perfect for a mehendi
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>!</span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_0__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
                         <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Green Embroidered Corset Skirt Set, Manish Malhotra"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.420Z-MM-PR-SK-72156-CR_C-XS-1_5_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Green Embroidered Corset Skirt Set, Manish
-                                Malhotra
-                              </span>
-                              <span className="Stories_courtesy">
-                                Manish Malhotra
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://manishmalhotra.in/product/green-embroidered-corset-skirt-set-MM-PR-SK-72156-CR_C-XS"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/spotlight/little-black-book/6-henna-artists-who-should-be-on-every-brides-radar"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                outfit great for a mehendi
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              if you want to take the traditional route and wear
-                              something green, is this stunning{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/made-in-india-being-global-has-always-been-my-dream-manish-malhotra"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Manish Malhotra
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              corset and skirt set. Fun fact: it’s a recreation
-                              of{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/get-the-look-kajols-green-outfit-from-mehendi-laga-ke-rakhna"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                Kajol’s mehendi outfit in DDLJ
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              . How cool is that!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_1__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
                         <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="Embellished concept saree, Tarun Tahiliani"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.415Z-71223tt19-1_2_11zon.jpeg&w=3840&q=75"
-                            />
-                            <div className="Stories_caption_wrapper">
-                              <span className="Stories_caption">
-                                Embellished concept saree, Tarun Tahiliani
-                              </span>
-                              <span className="Stories_courtesy">
-                                Tarun Tahiliani
-                              </span>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://www.ensembleindia.com/royal-black-sequin-embellished-concept-sari/p/269694?srsltid=AfmBOoqk3TQ2LQIZ67LxaFC_Sg6NL2miBEO-3Erhtb93tQokfbqN75VWFzE"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Sleek, sexy, and effortless, this black{" "}
-                            </span>
-                            <a
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              style={{ color: "rgb(0, 0, 0)" }}
-                              href="https://www.manifestmagazine.in/fashion-beauty/features/designer-tarun-tahiliani-and-his-love-for-comfortable-couture"
-                            >
-                              <span style={{ color: "rgb(0, 0, 0)" }}>
-                                corset saree by Tarun Tahiliani
-                              </span>
-                            </a>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              {" "}
-                              is the perfect pick for a cocktail!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    
-                    
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Another fabulous outfit option for a
-                              mehendi—especially if you’re leaning into
-                              tradition and want to wear something green—is this
-                              absolutely stunning Manish Malhotra corset and
-                              skirt set. The rich emerald hue pays homage to the
-                              classic mehendi color palette, while the
-                              silhouette brings a fresh, contemporary twist to a
-                              timeless look. What makes this ensemble even more
-                              special is its nostalgic inspiration: it’s a
-                              modern recreation of the iconic mehendi outfit
-                              worn by Kajol in Dilwale Dulhania Le Jayenge—a
-                              film that has defined romance for an entire
-                              generation. The fusion of cinematic nostalgia and
-                              high-fashion craftsmanship makes this piece not
-                              just beautiful, but meaningful too. So if you’re a
-                              Bollywood lover, a DDLJ fan, or just someone who
-                              appreciates a mix of tradition and trend, this
-                              outfit is the perfect way to celebrate your
-                              mehendi in style—and with a little cinematic
-                              flair! How cool is that?
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              BRB, going to channel our inner barbie energy in
-                              this stunning fishtail lehenga by Mishru!
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              Speaking of vibrant colours, you might want to
-                              consider this electric blue corset set by Dolly J
-                              if you are someone who likes to make an entrance.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ color: "rgb(0, 0, 0)" }}>
-                              This corset lehenga by Seema Gujral with 3D
-                              flowers is somehow both demure and minimalistic,
-                              and we are here for it.
-                            </span>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div
-                        style={{
-                          display: "flex",
-                          justifyContent: "center",
-                          width: "100%",
-                        }}
-                      >
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_2__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
                         <div
-                          className="media-grid_wrapper"
-                          style={{ width: "100%" }}
-                        >
-                          <div className="media-grid_wrapper_inner-full-width">
-                            <img
-                              alt="VIGL4687_11_11zon"
-                              loading="lazy"
-                              width={700}
-                              height={475}
-                              decoding="async"
-                              data-nimg={1}
-                              style={{
-                                color: "transparent",
-                                width: "100%",
-                                height: "auto",
-                              }}
-                              sizes="100vw"
-                              src="https://www.manifestmagazine.in/_next/image?url=https%3A%2F%2Fcdn.manifestmagazine.in%2Feditor-images%2F2025-09-04T10%253A25%253A13.439Z-VIGL4687_11_11zon.jpeg&w=3840&q=75"
-                            />
-                          </div>
-                        </div>
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_3__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
+                        <div
+                          id="google_ads_iframe_/23290324739/Manifest-Desktop-RHS-300_4__container__"
+                          style={{ border: "0pt none", width: 300, height: 0 }}
+                        />
                       </div>
                     </div>
-                    <div className="StoriesInfo_left_innercntr-full-width">
-                      <div className="">
-                        <div className="rich-text_wrapper">
-                          <p style={{ textAlign: "left" }}>
-                            <span style={{ fontStyle: "italic" }}>Buy it </span>
-                            <a
-                              target="_blank"
-                              rel="noreferrer, nofollow"
-                              style={{
-                                fontWeight: "bold",
-                                fontStyle: "italic",
-                              }}
-                              href="https://jayantireddy.com/collections/lehenga-set/products/beige-gold-lehenga-with-corset"
-                            >
-                              <span
-                                style={{
-                                  fontWeight: "bold",
-                                  fontStyle: "italic",
-                                }}
-                              >
-                                here
-                              </span>
-                            </a>
-                            <br />
-                          </p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="">
-                      <ul className="Readmore_actions">
-                        <li className="Readmore_actions_first-not-button">
-                          <span>READ MORE STORIES ABOUT :</span>
-                        </li>
-                        <div className="Readmore_actions_inner">
-                          <ul className="card-actions_actions">
-                            <li className="">
-                              <a
-                                className="card-actions_actions_button "
-                                aria-label=""
-                                href="/tag/bridesmaids"
-                              >
-                                <span className="button_label">
-                                  Bridesmaids
-                                </span>
-                              </a>
-                            </li>
-                          </ul>
-                          <ul className="card-actions_actions">
-                            <li className="">
-                              <a
-                                className="card-actions_actions_button "
-                                aria-label=""
-                                href="/tag/corset"
-                              >
-                                <span className="button_label">corset</span>
-                              </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </ul>
-                    </div>
-                  </b>
+                  </div>
                 </div>
               </div>
-
-              {/* <div
-              className="nextStoryContainer container"
-              style={{ backgroundColor: "rgb(250, 247, 243)" }}
-            >
-              <h2 className="nextStoryTitle">
-                <b>Next Story</b>
-              </h2>
-              <b>
+              <div className="ad-flex-all">
+                <div
+                  id="div-gpt-ad-stories-bottom-68c7d23ebf508746ddc251d7"
+                  data-cy="Ad"
+                  className="ad-text"
+                  data-google-query-id=""
+                  style={{ margin: "50px auto 0px" }}
+                >
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_0__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_3__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_6__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_9__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                  <div
+                    id="google_ads_iframe_/23290324739/Manifest-Desktop-Bottom-300_12__container__"
+                    style={{ border: "0pt none", width: 300, height: 0 }}
+                  />
+                </div>
+              </div>
+              <div
+                className="nextStoryContainer container"
+                style={{ backgroundColor: "rgb(250, 247, 243)" }}
+              >
+                <h2 className="nextStoryTitle">Next Story</h2>
                 <div className="nextStoryLine" />
-              </b>
-            </div> */}
+              </div>
             </div>
           </div>
-          <br></br>
-          <br></br>
-          <br></br>
-           <br></br>
-          <br></br>
-          <br></br>
         </div>
         <b>
           <div
